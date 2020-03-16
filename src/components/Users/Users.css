@@ -1,3 +1,8 @@
+.main-body{
+    display: flex;
+    text-align: center;
+}
+
 .user-container
 {
 margin-top: 10px;    
@@ -9,3 +14,6 @@ padding:10px;
 background-color: rgb(184, 245, 245);
 
 }
+.friends-status{
+    width: 30%;
+    }

@@ -1,0 +1,30 @@
+.friend-container{
+    background-color: white;
+    margin: 20px 15px 0px 50px;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 10px 10px 15px  lightseagreen;
+    
+}
+
+.friend-container h4{
+    padding: 10px;
+    color:lightseagreen;
+    border: 1px solid lightseagreen;
+    border-radius: 5px;
+}
+table { 
+    border-collapse: collapse;
+    margin-top: 30px;
+    color: lightseagreen
+}
+
+tr{
+    border-bottom: 2px solid lightseagreen;
+}
+
+table img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
